@@ -10,3 +10,7 @@ mlflow :
 
 deployment ready : 
 ![Screenshot (870)](https://github.com/user-attachments/assets/234227a3-397d-431f-a82d-ea345d42f864)
+
+we use free services ( prefect provide 10hrs / month ) 
+
+![Screenshot (871)](https://github.com/user-attachments/assets/3793a8d9-90e5-498a-bff2-429ee95b47e3)
